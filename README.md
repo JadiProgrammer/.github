@@ -1,4 +1,4 @@
-# Selamat Datang Di JadiProgrammer - Semua Bisa Jadi Programmer
+# Selamat Datang Di JadiProgrammer - Semua Bisa Jadi Programmer 🚀
 
 Selamat datang di repositori Tutorial Programming! Di sini, kami menyediakan panduan dan tutorial lengkap untuk membantu Anda mempelajari pemrograman dengan mudah. Kami percaya bahwa semua orang bisa menjadi seorang programmer, dan tujuan kami adalah memberikan sumber daya yang bermanfaat untuk membantu Anda mencapai potensi penuh Anda dalam dunia pemrograman.
 
@@ -15,9 +15,9 @@ Kami sangat percaya bahwa semua orang memiliki potensi untuk menjadi seorang pro
 Di repositori ini, Anda akan menemukan berbagai tutorial dan panduan yang mencakup berbagai topik pemrograman, termasuk:
 
 - Pemrograman Dasar: Pengenalan konsep pemrograman dan pemahaman dasar tentang sintaks dan struktur kode.
-- Bahasa Pemrograman: Panduan untuk belajar bahasa pemrograman populer seperti JavaScript, PHP, Golang, Python
+- Bahasa Pemrograman: Panduan untuk belajar bahasa pemrograman populer seperti JavaScript, TypeScript, Golang
 - Pengembangan Web: Panduan untuk mempelajari HTML, CSS, dan JavaScript untuk membangun situs web yang interaktif dan responsif.
-- Pengembangan Aplikasi Mobile: Panduan untuk mempelajari pengembangan aplikasi mobile dengan menggunakan platform seperti Android dan iOS.
+<!-- - Pengembangan Aplikasi Mobile: Panduan untuk mempelajari pengembangan aplikasi mobile dengan menggunakan platform seperti Android dan iOS. -->
 - Basis Data: Pengenalan dan panduan tentang penggunaan basis data dan pengelolaan informasi.
 
 ## Kontribusi
